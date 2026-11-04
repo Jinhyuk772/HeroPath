@@ -1,0 +1,14 @@
+## Interface: 16001, 11509, 11508
+## Title: Hero's Path
+## Notes: 젤다 야숨 '용사의 발자취' — 어디로 어떻게 걸었는지 별도 창에서 비디오처럼 돌려 본다. 사망 · 레벨업 · 로그인/아웃 · 던전 · 귀환석 · 비행 · 퀘스트 완료도 함께.
+## Author: Noowanda
+## Version: 0.3.0
+## SavedVariables: HeroPathDB
+## X-Category: Map
+
+Core.lua
+Record.lua
+Viewer.lua
+Sync.lua
+Options.lua
+Bindings.xml

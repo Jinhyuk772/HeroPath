@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="HEROPATH_TOGGLE" header="HEROPATH" category="ADDONS">
+    HeroPath.Toggle()
+  </Binding>
+</Bindings>
